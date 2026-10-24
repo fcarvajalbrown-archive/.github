@@ -17,7 +17,6 @@ Private repositories are archived here too but are left out of this index, since
 - [Lupa-Municipal-2026](https://github.com/fcarvajalbrown-archive/Lupa-Municipal-2026)
 - [Metalcon-Calculadora-Vigas](https://github.com/fcarvajalbrown-archive/Metalcon-Calculadora-Vigas) — beam-load calculator for Metalcon/CINTAC steel profiles
 - [SMA-Multas](https://github.com/fcarvajalbrown-archive/SMA-Multas) — transparency on unpaid environmental fines in Chile
-- [Visualizador-Mercado-Publico](https://github.com/fcarvajalbrown-archive/Visualizador-Mercado-Publico)
 - [actualidadsocialchile](https://github.com/fcarvajalbrown-archive/actualidadsocialchile) — condensing Chile's fourth estate
 - [leyllana](https://github.com/fcarvajalbrown-archive/leyllana)
 - [somoselmejorpais](https://github.com/fcarvajalbrown-archive/somoselmejorpais) — satirical dashboard of Chilean national-identity rankings
